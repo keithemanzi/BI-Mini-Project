@@ -9,6 +9,9 @@ The goal is to present a clear, interactive, and defendable BI dashboard using S
 
 ---
 
+## Data Pipeline
+Python scripts were used to loading and inspecting the data and a docker compose file in yml was used to start a postgresql database using docker 
+
 ##  Key Performance Indicators (KPIs)
 
 ### 1. Ratio Between Cancelled Flights and Airlines  
@@ -66,7 +69,7 @@ Charts answering each business question.
 ## Tools Used
 - SQL  
 - Metabase  
-- Docker Desktop
+- Docker Desktop for (PostgreSQL) setup
 - GitHub  
 
 ---
