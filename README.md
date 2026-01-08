@@ -66,7 +66,7 @@ Charts answering each business question.
 ## Tools Used
 - SQL  
 - Metabase  
-- PostgreSQL (or your DB engine)  
+- Docker Desktop
 - GitHub  
 
 ---
@@ -82,8 +82,6 @@ Charts answering each business question.
 /sql
    kpi_queries.sql
    task_queries.sql
-/screenshots
-   dashboard.png
 README.md
 
 # Author
